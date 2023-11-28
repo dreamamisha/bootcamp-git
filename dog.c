@@ -1,5 +1,3 @@
-puppy
-canine
-wolf
-bark
-bow wow
+tommy
+ronnie
+jolly
